@@ -101,4 +101,5 @@ class EmpireBot(commands.Bot):
 
 
 bot = EmpireBot("!")
-bot.run('NzAzMTIzNzIxNDc2NjM2NzMz.XqKBKw.DpFDfAMZyKhXAyj-mKpnaUUXmKE')
+
+bot.run(input("Token please: "))
